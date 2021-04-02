@@ -1,0 +1,26 @@
+{
+	"dependencies": {
+		"discord.js": "^12.5.2",
+		"express": "^4.17.1",
+		"youtube-notification": "^1.1.0"
+	},
+	"name": "discord-youtube-notifier-bot-v2",
+	"description": "A discord notifier bot, notifies your server when a new video has been uploaded on a channel.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [
+		"discord",
+		"youtube",
+		"notifier",
+		"js",
+		"javascript",
+		"discord.js"
+	],
+	"author": "FC5570",
+	"license": "MIT"
+}

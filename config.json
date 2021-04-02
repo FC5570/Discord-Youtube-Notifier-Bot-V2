@@ -1,0 +1,7 @@
+{
+	"token": "your discord bot token",
+	"youtubeChannels": ["the youtube channels to listen to"],
+	"discordChannel": "the discord channel to send notifications in",
+	"hubURI": "Your ip/domain name that will be used as a callback URL by Pubsubhubbub",
+	"port": "the port to run the server on."
+}

@@ -18,7 +18,7 @@ A bot which notifies your server when a mentioned channel uploads a video. Much 
 
 3. `discordChannel`: The Discord Channel ID to send notifications to.
 
-4. `hubURI`: Your ip/domain name that will be used as a callback URL by Pubsubhubbub. It must be in a URL format, example: 'https://example.com/'. If you don't have a domain, you can use `http://ip:port`` as the hubURI.
+4. `hubURI`: Your ip/domain name that will be used as a callback URL by Pubsubhubbub. It must be in a URL format, example: 'https://example.com/'. If you don't have a domain, you can use `http://ip:port` as the hubURI.
 
 5. `port`: The port the pubsubhubbub server will listen on.
 

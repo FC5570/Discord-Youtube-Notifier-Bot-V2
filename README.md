@@ -14,7 +14,7 @@ A bot which notifies your server when a mentioned channel uploads a video. Much 
 
 1. `token`: The discord bot token. Can be found [here](https://discord.com/developers)
 
-2. `youtubeChannels`: An array of youtube channels to listen to for new videos. Any new videos uploaded on these channels will be posted in the Discord Channel.
+2. `youtubeChannels`: An array of youtube channel IDs to listen to for new videos. Any new videos uploaded on these channels will be posted in the Discord Channel.
 
 3. `discordChannel`: The Discord Channel ID to send notifications to.
 

@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"discord.js": "^12.5.2",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"youtube-notification": "^1.1.0"
 	},
 	"name": "discord-youtube-notifier-bot-v2",
